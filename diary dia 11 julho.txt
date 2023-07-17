@@ -1,0 +1,76 @@
+==================== fiz 20' conteudo em 15'========
+
+estratégia - somente assisti : depois 
+
+coloquei em prática tentando relembrar 
+
+so depois disso eu esquevi 
+
+pontos negativos 
+demorei -    
+tive que voltar - 
+esqueci o que fazer -
+gravei a tela do video - 
+fiz uma pergunta sem a necessidade que eu tinha-
+
+demorei 20 minutos para concluir a pratica 
+n fiz um practice dps destes 20'
+
+
+
+elementos aprendidos
+
+
+text-align = center 
+( vai alinhar no centro de todas as divs os elementos que também tiverem texto exibido)
+
+<br/>
+
+&nbsp     &neighborhood de são paulo
+
+seletor a+a   
+
+margin = shorthand
+
+margin = top-bottom  left-right
+
+margin = top left-right bottom
+
+margin = top right bottom left
+
+margin do top padrao define para o bottom igual a 0 
+
+
+
+
+
+=noite
+6' fiz conteudo + texto + pratica 18'
+
+posso colocar id e class na mesma div 
+  boder : pixel tipo cor ;
+
+    5 min de conteudo para assistir escrever e praticar a aula de morei 18'
+
+5'    fiz conteudo + texto + prática = 18'
+
+position :      fixed ( uma nova camada sobreposta)
+  right:          absolute ( fica por cima de tudo - se caso seu pai for relative é em relação o absolute)
+    bottom:          sticky ( cola na viewporte quando atingir o atributo de position)
+      left:
+        top: 
+target = "_blank"
+
+
+uma conta no codepen    
+  control c + control v 
+    emvez de por tag para imagem svg substitue pelo codigo referenciando <svg> com id como se fosse <img> 
+      outras imagems em outros formatos - devida transformar em svg ou poste em algum canto e pegue o endereço url
+
+Um erro - depois de escrito todo o codigo minha imagem continua não exibindo 
+QUANDO COLOCAR UM SOURCE src=" nao coloca uma / no inicio de uma pasta "
+
+      
+              
+                
+  

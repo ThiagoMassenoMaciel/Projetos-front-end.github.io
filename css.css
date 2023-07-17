@@ -1,0 +1,65 @@
+body{
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 0 ;
+}
+
+span , a {
+  color: #FF9900;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif; 
+}
+
+#hero {
+  width: 592px;
+  height: 570px;
+  margin: 0px auto 80px;
+
+}
+
+#hero h1{
+  margin: 72px auto 32px;
+}
+
+p{
+  color: #7D7987;
+}
+
+h1{
+  color: #000000;
+  font-size: 49px;
+  line-height: 56px;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal ;
+}
+
+h1 span{
+  font-weight: bold;
+}
+
+/*Ideia - colocar as diferenças de seletores de css em uma tela de css  intuitiva         selector1 , s2 {}   sel2  sel*/
+
+#footer a + a {
+  margin-left: 28px;
+}
+
+#footer{
+  margin-bottom: 32px;
+}
+
+#linha{
+  height: 0px;
+  width: 568px;
+  margin: 0px auto 8px;
+  border: 1px solid #ECEFF2;
+}
+
+#bola{
+  position: fixed;
+  right: 0px;
+  bottom:0px;
+}
