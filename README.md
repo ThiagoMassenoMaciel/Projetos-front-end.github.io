@@ -1,6 +1,6 @@
 # Projeto-01-Front-End.github.io
 [Veja O Projeto aqui](https://thiagomassenomaciel.github.io/Projetos-front-end.github.io/)
-![image](https://github.com/user-attachments/assets/856afff3-c272-4d5e-a53b-b144a198a3ac)
+![image](https://github.com/user-attachments/assets/e64b1079-f695-4beb-98b8-0c1270c677a7)
 
 # ✒️ Autor 
 #### Thiago Masseno Maciel
