@@ -12,7 +12,7 @@
 #### css3
 
 # 📌Aprendizados 
-#### o que considero mais importante é a maneira como eu deveria organizar as tags html implementando os conceitos de seo para um site , o quão é importante diferenciar pedaços do layout da página web, tal qual deve ter as tags semânticas:
+#### O que considero aprendizado mais importante é a maneira como eu devo organizar as tags html implementando os conceitos de seo para um site, o quão é importante diferenciar pedaços do layout da página web com as tags semânticas:
 ###### `<header>`
 ###### `<nav>`
 ###### `<main>` 
