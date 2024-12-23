@@ -13,10 +13,18 @@
 #### css3
 
 # 📌Aprendizados 
-#### O que considero aprendizado mais importante é a maneira como eu devo organizar as tags html implementando os conceitos de seo para um site, o quão é importante diferenciar pedaços do layout da página web com as tags semânticas:
+#### O que considero aprendizado mais importante é as tags html que aprendi:
+##### Estrutura html :
 ###### `<header>`
-###### `<nav>`
-###### `<main>` 
-###### `<section>`
-###### `<footer>`
+###### `<body>`
+###### `<div>` 
+##### Específicos para texto :
+###### `<h1>` - títulos
+###### `<p>` - parágrafos
+###### `<span>` - destacar uma palavra ou frase dentro de um texto
+###### `<strong>` - deixar texto em negrito
+###### `<br/>` - quebra de linha
+##### Outros :
+###### `<img>` - para adicionar imagem à página web
+###### `<a>` - para adicionar links à página web
 
