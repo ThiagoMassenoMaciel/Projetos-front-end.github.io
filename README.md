@@ -5,7 +5,7 @@
 # ✒️ Autor 
 #### Thiago Masseno Maciel
 #### graduando em Sistemas de informação na faculdade [uni7](https://www.uni7.edu.br/)
-#### portifólio [link aqui](https://portifolio-iota-two-78.vercel.app/)
+#### portifólio [link aqui](https://thiagomassenomaciel.github.io/MYportifolio.github.io/)
 
 # 🛠️ Construído com as tecnologias
 #### [figma](https://www.figma.com/design/5KyUg6ICzJUP6mXK9cAdGc/Explorer---Projeto-01-(Copy)?t=fcnGNXHW9obWNAwp-1)
